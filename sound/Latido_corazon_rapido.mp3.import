@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Latido_corazon_rapido.mp3-e02035185c587b514c269cee4d751acb.mp3str"
+
+[deps]
+
+source_file="res://sound/Latido_corazon_rapido.mp3"
+dest_files=[ "res://.import/Latido_corazon_rapido.mp3-e02035185c587b514c269cee4d751acb.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

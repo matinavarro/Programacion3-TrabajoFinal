@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Night of the Streets.mp3-c5926927778b5691525341d85713b2d7.mp3str"
+
+[deps]
+
+source_file="res://sound/Night of the Streets.mp3"
+dest_files=[ "res://.import/Night of the Streets.mp3-c5926927778b5691525341d85713b2d7.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/hbs.mp3-676c775f7651a82875ef58464164aa26.mp3str"
+
+[deps]
+
+source_file="res://sound/hbs.mp3"
+dest_files=[ "res://.import/hbs.mp3-676c775f7651a82875ef58464164aa26.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

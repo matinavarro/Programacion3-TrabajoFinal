@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/retro_spooky_soundscape_the_whispering_shadows_dungeon_clement_panchout_2016.wav-835594c53543050cdee08d52675f2923.sample"
+
+[deps]
+
+source_file="res://sound/retro_spooky_soundscape_the_whispering_shadows_dungeon_clement_panchout_2016.wav"
+dest_files=[ "res://.import/retro_spooky_soundscape_the_whispering_shadows_dungeon_clement_panchout_2016.wav-835594c53543050cdee08d52675f2923.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
